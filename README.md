@@ -45,20 +45,21 @@ cp -R Latin-American-ISO.bundle ~/Library/Keyboard\ Layouts/
 ```bash
 sudo cp -R Latin-American-ISO.bundle /Library/Keyboard\ Layouts/
 ```
-3. **Refresh keyboard layouts:**
+3. **Refresh keyboard layouts:**  
 Log out and log back in, or restart your Mac to ensure the new layouts are recognized.
 
 4. **Add the new layout in System Settings:**
 - Open **System Settings** > **Keyboard** > **Input Sources**.  
 - Click the **"+"** button and add "Latin American ISO" (A or B) from the list.  
 
-5. **(Optional) Remove the layout:**
-
+5. **(Optional) Remove the layout:**  
 To uninstall, simply delete the bundle:
+
+- For the current user:
 ```bash
 rm -rf ~/Library/Keyboard\ Layouts/Latin-American-ISO.bundle
 ```
-or, if installed system-wide:
+- or, if installed system-wide:
 ```bash
 sudo rm -rf /Library/Keyboard\ Layouts/Latin-American-ISO.bundle
 ```
