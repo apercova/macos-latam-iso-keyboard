@@ -1,8 +1,8 @@
-# macos-latam-iso-keyboard
-Latam ISO Keyboard Layouts
 # macOS Latin American ISO Keyboard Layouts
 
 A custom keyboard layout bundle for macOS that provides comprehensive support for Latin American ISO keyboards. This project is designed for Spanish-typers who require accurate mapping of Latin American special characters, accents, and symbols, on an ISO-layout keyboard.
+
+<a href="https://www.buymeacoffee.com/apercova"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=apercova&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ## Overview
 
