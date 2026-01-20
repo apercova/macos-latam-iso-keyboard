@@ -14,17 +14,18 @@ Many users in Latin America experience issues with default macOS keyboard layout
 - Native macOS integration with custom icons and localization
 
 ### Layouts
-Two layout variants (A and B) are included to suit different preferences.
+Two layout variants (A and B) are included to suit different preferences. Both layouts are designed for Latin American users and share the same mapping for most keys, including Spanish characters, accents, and common symbols. The only differences are in the placement of four symbols: pipe (`|`), degree (`°`), and less/greater than (`<`, `>`).
 
 #### Layout A (Standard)
 Closely matches the traditional Latin American ISO keyboard layout.
+Places the pipe (`|`) and degree (`°`) symbols on the key above **TAB* key.
+Symbols (`<`, `>`) are placed next to the **SHIFT** key.
 Designed for users who want their macOS keyboard to behave like standard Latin American keyboards found on most PCs.
 All Spanish characters, accents, and common symbols are mapped to their expected physical keys.
 
-#### Layout B (Programming-Friendly)
-Optimized for users who frequently write code or use special symbols.
-Provides easier access to programming-related characters (such as `@`, `#`, `|`, `~`, etc.).
-Reduces the use of dead keys and places frequently used symbols in more accessible positions.
+#### Layout B
+Based on **Layout A**. Swaps the pipe (`|`) and degree (`°`) to (`<`, `>`) symbols.
+
 
 ## Installation
 
